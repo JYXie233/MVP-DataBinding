@@ -1,1 +1,3 @@
 #MVP+DataBinding
+项目用到了RxJava，RxAdnroid，Retrofit等
+结合DataBinding和MVP架构
